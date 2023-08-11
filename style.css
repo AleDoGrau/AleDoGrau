@@ -86,7 +86,7 @@
 
     .alunos-todos {
         display: grid;
-        grid-template-columns: 50% 50%;
+        grid-template-columns: 25% 25% 25% 25%;
     }
 
     .alunos-fotos {
@@ -350,7 +350,7 @@
 
 .roda-pé-texto {
     margin: 10px 0px 5px 0px;
-    color: white;
+    color: pink;
 }
 
 li {
